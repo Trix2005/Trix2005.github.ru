@@ -1,0 +1,328 @@
+Uri: https://standhack.com/
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\index.htm
+Content Type: text/html
+
+Uri: https://standhack.com/img/favicon/favicon.ico
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://standhack.com/img/favicon/apple-touch-icon-180x180.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\favicon\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\icon.css
+Content Type: text/css
+
+Uri: https://standhack.com/css/jquery.fancybox.css
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://standhack.com/css/slick.css
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\slick.css
+Content Type: text/css
+
+Uri: https://standhack.com/css/slick-theme.css
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://standhack.com/css/main.min.css
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\main.min.css
+Content Type: text/css
+
+Uri: https://standhack.com/css/modal.css
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\modal.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/watch?v=7B_5CM9UVzw
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\watch.html
+Content Type: text/html
+
+Uri: https://standhack.com/cdn-cgi/l/email-protection
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://standhack.com/oferta.html
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\oferta.html
+Content Type: text/html
+
+Uri: https://standhack.com/img/logo.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\logo.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/header-pers.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\header-pers.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/trigger.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\trigger.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/wall.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\wall.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/skin.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\skin.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/embed/7B_5CM9UVzw
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\embed\7B_5CM9UVzw.html
+Content Type: text/html
+
+Uri: https://standhack.com/img/1.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/2.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/3.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/4.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/5.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/6.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/7.jpg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://standhack.com/img/matrica.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\matrica.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/logo-footer.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\logo-footer.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/pay.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\pay.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/modal-pay.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\modal-pay.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://standhack.com/js/scripts.min.js
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\js\scripts.min.js
+Content Type: application/x-javascript
+
+Uri: https://standhack.com/js/jquery.fancybox.min.js
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\js\jquery.fancybox.min.js
+Content Type: application/x-javascript
+
+Uri: https://standhack.com/js/modal.js
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\js\modal.js
+Content Type: application/x-javascript
+
+Uri: https://standhack.com/js/slick.min.js
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\js\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://standhack.com/css/fonts/slick.eot
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/css/fonts/slick.eot?
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/css/fonts/slick.woff
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://standhack.com/css/fonts/slick.ttf
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://standhack.com/css/fonts/slick.svg
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://standhack.com/fonts/GothamPro/GothamPro.eot
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamPro\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamPro/GothamPro.eot?
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamPro\GothamPro-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamPro/GothamPro.woff
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamPro\GothamPro.woff
+Content Type: application/font-woff
+
+Uri: https://standhack.com/fonts/GothamPro/GothamPro.ttf
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamPro\GothamPro.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://standhack.com/fonts/GothamProLight/GothamProLight.eot
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProLight\GothamProLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProLight/GothamProLight.eot?
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProLight\GothamProLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProLight/GothamProLight.woff
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProLight\GothamProLight.woff
+Content Type: application/font-woff
+
+Uri: https://standhack.com/fonts/GothamProLight/GothamProLight.ttf
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProLight\GothamProLight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://standhack.com/fonts/GothamProMedium/GothamProMedium.eot
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProMedium\GothamProMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProMedium/GothamProMedium.eot?
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProMedium\GothamProMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProMedium/GothamProMedium.woff
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProMedium\GothamProMedium.woff
+Content Type: application/font-woff
+
+Uri: https://standhack.com/fonts/GothamProMedium/GothamProMedium.ttf
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProMedium\GothamProMedium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://standhack.com/fonts/GothamProBold/GothamProBold.eot
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBold\GothamProBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProBold/GothamProBold.eot?
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBold\GothamProBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProBold/GothamProBold.woff
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBold\GothamProBold.woff
+Content Type: application/font-woff
+
+Uri: https://standhack.com/fonts/GothamProBold/GothamProBold.ttf
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBold\GothamProBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://standhack.com/fonts/GothamProBlack/GothamProBlack.eot
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBlack\GothamProBlack.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProBlack/GothamProBlack.eot?
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBlack\GothamProBlack-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standhack.com/fonts/GothamProBlack/GothamProBlack.woff
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBlack\GothamProBlack.woff
+Content Type: application/font-woff
+
+Uri: https://standhack.com/fonts/GothamProBlack/GothamProBlack.ttf
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\fonts\GothamProBlack\GothamProBlack.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://standhack.com/img/bg-1.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\bg-1.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/android.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\android.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/ios.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\ios.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/bg-fun.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\bg-fun.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/bg-2.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\bg-2.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/bg-3.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\bg-3.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/bg-4.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\bg-4.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/bg-footer.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\bg-footer.png
+Content Type: image/png
+
+Uri: https://standhack.com/img/background-modal.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\img\background-modal.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://standhack.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://standhack.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Users\38066\Desktop\сайт\standhack.com\5xx-error-landing\index.htm
+Content Type: text/html
+

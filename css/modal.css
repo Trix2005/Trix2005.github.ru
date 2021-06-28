@@ -1,0 +1,136 @@
+.modal-block, .modal-function {
+	display: none;
+	font-family: "Roboto", sans-serif;
+	max-width: 500px !important;
+	background-color: #fff !important;
+	color: #111;
+	box-shadow: 0 0 15px #111;
+}
+
+.modal-function {
+	max-width: 600px !important;
+	background-color: #eeeef2 !important;
+}
+
+.modal-function {
+	padding: 25px !important;
+}
+
+.text-modal {
+	font-size: 15px;
+	margin: 25px 0 !important;
+}
+
+.modal-block input {
+	color: #111;
+	padding-left: 0;
+	border: none;
+	background-color: transparent;
+	border-bottom: 1px solid #646d74;
+	transition: .35s;
+}
+
+.modal-block label {
+	display: block;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+
+.modal-block .form-group:nth-child(2) {
+	margin-top: 25px;
+}
+
+.modal-button {
+	display: block;
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+	padding: 8px 0;
+	background-color: #ff9000;
+	outline: none;
+	cursor: pointer;
+	border: none;
+	transition: .25s;
+	margin-top: 15px;
+}
+
+.modal-button:hover {
+	color: #fff;
+	background-color: #d07704;
+}
+
+.modal-block .form-control {
+	border-radius: 0;
+}
+
+.modal-block .form-control:focus {
+	box-shadow: none;
+	border-color: #ff9000;
+}
+
+.fancybox-can-swipe .fancybox-content,
+.fancybox-can-swipe .fancybox-content {
+	cursor: default !important;
+}
+
+.promo-button {
+	display: inline;
+	font-size: 14px;
+	color: #646d74 !important;
+	cursor: pointer;
+	transition: .35s;
+}
+
+.promo-button:hover {
+	color: #ff9000 !important;
+}
+
+.input-label {
+	margin-top: 5px;
+	font-size: 13px;
+	color: #ff1b1b;
+	display: none;
+}
+
+.header-modal {
+	background-image: url(../img/background-modal.png);
+	background-size: cover;
+	text-align: center;
+	padding: 45px 10px;
+	color: #fff;
+	margin-top: -44px;
+	margin-left: -44px;
+	margin-right: -44px;
+}
+
+.header-modal h4 {
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 10px !important;
+}
+
+.header-modal p {
+	margin-bottom: 0 !important;
+}
+
+.image-modal {
+	max-width: 100%;
+	margin-top: 30px;
+}
+
+.total-text-modal {
+	margin: 25px 0;
+}
+
+.total-text-modal span {
+	font-weight: 700;
+}
+
+.modal-function .fancybox-close-small {
+	color: #111;
+	padding: 8px;
+	right: 10px;
+	top: 10px;
+}
